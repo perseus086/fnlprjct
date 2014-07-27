@@ -1,0 +1,529 @@
+{
+  "head": {
+    "vars": [ "org" , "orgLabel" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org176" } ,
+        "orgLabel": { "type": "literal" , "value": "Radiology" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org104" } ,
+        "orgLabel": { "type": "literal" , "value": "Social and Political Sciences" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org175" } ,
+        "orgLabel": { "type": "literal" , "value": "Scholarly Information" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org140" } ,
+        "orgLabel": { "type": "literal" , "value": "Medicine, Dentistry and Health Sciences" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4117" } ,
+        "orgLabel": { "type": "literal" , "value": "Graduate School of Humanities and Social Sciences" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org186" } ,
+        "orgLabel": { "type": "literal" , "value": "MDU Microbiology" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org139" } ,
+        "orgLabel": { "type": "literal" , "value": "Law" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org225" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne School of Graduate Research" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org167" } ,
+        "orgLabel": { "type": "literal" , "value": "Medicine - Austin Health" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org219" } ,
+        "orgLabel": { "type": "literal" , "value": "Zoology" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org169" } ,
+        "orgLabel": { "type": "literal" , "value": "Surgery - Austin Health" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org86" } ,
+        "orgLabel": { "type": "literal" , "value": "Resource Management and Geography" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org159" } ,
+        "orgLabel": { "type": "literal" , "value": "Marketing" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org151" } ,
+        "orgLabel": { "type": "literal" , "value": "The Ian Potter Museum of Art" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org238" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne Business School" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org3737" } ,
+        "orgLabel": { "type": "literal" , "value": "School of Health Sciences" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org118" } ,
+        "orgLabel": { "type": "literal" , "value": "Economics" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org196" } ,
+        "orgLabel": { "type": "literal" , "value": "General Practice" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org116" } ,
+        "orgLabel": { "type": "literal" , "value": "Human Resources" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org221" } ,
+        "orgLabel": { "type": "literal" , "value": "Optometry and Vision Sciences" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4497" } ,
+        "orgLabel": { "type": "literal" , "value": "Medical Bionics Department" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org107" } ,
+        "orgLabel": { "type": "literal" , "value": "Senior Vice-Principal" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org148" } ,
+        "orgLabel": { "type": "literal" , "value": "Vice-Chancellor's Office" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org162" } ,
+        "orgLabel": { "type": "literal" , "value": "Advancement" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org194" } ,
+        "orgLabel": { "type": "literal" , "value": "Obstetrics and Gynaecology Royal Women's Hospital/Mercy" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org210" } ,
+        "orgLabel": { "type": "literal" , "value": "Mathematics and Statistics" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org124" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne Institute of Applied Economic and Social Research" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org84" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne School of Land and Environment" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org224" } ,
+        "orgLabel": { "type": "literal" , "value": "International House" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org128" } ,
+        "orgLabel": { "type": "literal" , "value": "Chemical and Biomolecular Engineering" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org145" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne School of Population and Global Health" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org173" } ,
+        "orgLabel": { "type": "literal" , "value": "Medicine - Royal Melbourne Hospital" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org183" } ,
+        "orgLabel": { "type": "literal" , "value": "Medicine - St Vincent's Hospital" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org146" } ,
+        "orgLabel": { "type": "literal" , "value": "Property and Campus Services" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4257" } ,
+        "orgLabel": { "type": "literal" , "value": "Computing and Information Systems" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org185" } ,
+        "orgLabel": { "type": "literal" , "value": "Surgery - St Vincent's Hospital" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org5457" } ,
+        "orgLabel": { "type": "literal" , "value": "Carlton Connect" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org214" } ,
+        "orgLabel": { "type": "literal" , "value": "Physics" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org3417" } ,
+        "orgLabel": { "type": "literal" , "value": "Biomedical Sciences Academic Centre" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org147" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne Medical School" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org178" } ,
+        "orgLabel": { "type": "literal" , "value": "Surgery - Royal Melbourne Hospital" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org142" } ,
+        "orgLabel": { "type": "literal" , "value": "Rural Health Academic Centre" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org190" } ,
+        "orgLabel": { "type": "literal" , "value": "Ophthalmology Eye and Ear Hospital" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org215" } ,
+        "orgLabel": { "type": "literal" , "value": "Biology Laboratory" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org115" } ,
+        "orgLabel": { "type": "literal" , "value": "Business and Economics" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org2938" } ,
+        "orgLabel": { "type": "literal" , "value": "Engagement and Partnerships" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org213" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne University Publishing Ltd" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org152" } ,
+        "orgLabel": { "type": "literal" , "value": "Physiotherapy" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org3617" } ,
+        "orgLabel": { "type": "literal" , "value": "University Library" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4297" } ,
+        "orgLabel": { "type": "literal" , "value": "Student Services Portfolio" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org165" } ,
+        "orgLabel": { "type": "literal" , "value": "Physiology" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org245" } ,
+        "orgLabel": { "type": "literal" , "value": "UoM Commercial Ltd" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org184" } ,
+        "orgLabel": { "type": "literal" , "value": "Veterinary Hospital" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org2777" } ,
+        "orgLabel": { "type": "literal" , "value": "Bio21 Australia Limited" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org89" } ,
+        "orgLabel": { "type": "literal" , "value": "Architecture, Building and Planning" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org2497" } ,
+        "orgLabel": { "type": "literal" , "value": "Provost Department" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org3582" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne Conservatorium of Music" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org157" } ,
+        "orgLabel": { "type": "literal" , "value": "Asialink" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org206" } ,
+        "orgLabel": { "type": "literal" , "value": "Chemistry" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org156" } ,
+        "orgLabel": { "type": "literal" , "value": "Anatomy and Neuroscience" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org1097" } ,
+        "orgLabel": { "type": "literal" , "value": "Languages and Linguistics" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org189" } ,
+        "orgLabel": { "type": "literal" , "value": "Paediatrics Royal Children's Hospital" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org246" } ,
+        "orgLabel": { "type": "literal" , "value": "Victorian College of the Arts" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org204" } ,
+        "orgLabel": { "type": "literal" , "value": "Nossal Institute Ltd" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org1117" } ,
+        "orgLabel": { "type": "literal" , "value": "Project Services" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org1418" } ,
+        "orgLabel": { "type": "literal" , "value": "Centre for Neuroscience Research" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org126" } ,
+        "orgLabel": { "type": "literal" , "value": "Engineering" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org191" } ,
+        "orgLabel": { "type": "literal" , "value": "CERA Ltd" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org187" } ,
+        "orgLabel": { "type": "literal" , "value": "Clinical School - St Vincent's Hospital" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org101" } ,
+        "orgLabel": { "type": "literal" , "value": "Historical and Philosophical Studies" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org90" } ,
+        "orgLabel": { "type": "literal" , "value": "Arts" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org171" } ,
+        "orgLabel": { "type": "literal" , "value": "Clinical School - Austin Health" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org161" } ,
+        "orgLabel": { "type": "literal" , "value": "Pathology" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org205" } ,
+        "orgLabel": { "type": "literal" , "value": "Botany" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4977" } ,
+        "orgLabel": { "type": "literal" , "value": "Austin Academic Centre" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4337" } ,
+        "orgLabel": { "type": "literal" , "value": "Eastern Hill Academic Centre" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org2937" } ,
+        "orgLabel": { "type": "literal" , "value": "DVC (Engagement)" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org130" } ,
+        "orgLabel": { "type": "literal" , "value": "Murrup Barak Melbourne Institute for Indigenous Development" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org97" } ,
+        "orgLabel": { "type": "literal" , "value": "Asia Institute" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org285" } ,
+        "orgLabel": { "type": "literal" , "value": "Forest and Ecosystem Science" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org154" } ,
+        "orgLabel": { "type": "literal" , "value": "Nursing" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org160" } ,
+        "orgLabel": { "type": "literal" , "value": "Microbiology and Immunology" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org197" } ,
+        "orgLabel": { "type": "literal" , "value": "Rural Clinical School" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org122" } ,
+        "orgLabel": { "type": "literal" , "value": "Finance" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org618" } ,
+        "orgLabel": { "type": "literal" , "value": "MU Student Union Ltd" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org3597" } ,
+        "orgLabel": { "type": "literal" , "value": "Business Administration" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4217" } ,
+        "orgLabel": { "type": "literal" , "value": "Infrastructure Engineering" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org158" } ,
+        "orgLabel": { "type": "literal" , "value": "Biochemistry and Molecular Biology" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org3577" } ,
+        "orgLabel": { "type": "literal" , "value": "VCA and MCM" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org164" } ,
+        "orgLabel": { "type": "literal" , "value": "University Secretary" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org5137" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne School of Government" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org3177" } ,
+        "orgLabel": { "type": "literal" , "value": "Grattan Institute" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org217" } ,
+        "orgLabel": { "type": "literal" , "value": "Genetics" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org192" } ,
+        "orgLabel": { "type": "literal" , "value": "Audiology and Speech Pathology" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org1297" } ,
+        "orgLabel": { "type": "literal" , "value": "Commercialisation" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org3757" } ,
+        "orgLabel": { "type": "literal" , "value": "OHS & Injury Management" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org237" } ,
+        "orgLabel": { "type": "literal" , "value": "Bio21 Institute" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org94" } ,
+        "orgLabel": { "type": "literal" , "value": "Culture and Communication" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org5417" } ,
+        "orgLabel": { "type": "literal" , "value": "ELC and Children's Services" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4097" } ,
+        "orgLabel": { "type": "literal" , "value": "North West Academic Centre" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4357" } ,
+        "orgLabel": { "type": "literal" , "value": "Royal Melbourne Hospital Academic Centre" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org149" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne Dental School" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org226" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne Graduate School of Education" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4178" } ,
+        "orgLabel": { "type": "literal" , "value": "The Sir Peter MacCallum Department of Oncology" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org3017" } ,
+        "orgLabel": { "type": "literal" , "value": "Learning Environments" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org182" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne Research" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4177" } ,
+        "orgLabel": { "type": "literal" , "value": "Florey Department of Neuroscience and Mental Health" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org168" } ,
+        "orgLabel": { "type": "literal" , "value": "Research and Collections" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org174" } ,
+        "orgLabel": { "type": "literal" , "value": "Psychiatry" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org117" } ,
+        "orgLabel": { "type": "literal" , "value": "Accounting" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org3837" } ,
+        "orgLabel": { "type": "literal" , "value": "Information Technology Services" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org150" } ,
+        "orgLabel": { "type": "literal" , "value": "Melbourne School of Psychological Sciences" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org223" } ,
+        "orgLabel": { "type": "literal" , "value": "Veterinary Science Faculty" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4057" } ,
+        "orgLabel": { "type": "literal" , "value": "Finance and Planning" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org135" } ,
+        "orgLabel": { "type": "literal" , "value": "Mechanical Engineering" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org180" } ,
+        "orgLabel": { "type": "literal" , "value": "Clinical School - Royal Melbourne Hospital" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org3277" } ,
+        "orgLabel": { "type": "literal" , "value": "Centre for Youth Mental Health" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org87" } ,
+        "orgLabel": { "type": "literal" , "value": "Agriculture and Food Systems" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org99" } ,
+        "orgLabel": { "type": "literal" , "value": "Social and Environmental Enquiry" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org113" } ,
+        "orgLabel": { "type": "literal" , "value": "Social Work" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org121" } ,
+        "orgLabel": { "type": "literal" , "value": "Chief Financial Officer" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org120" } ,
+        "orgLabel": { "type": "literal" , "value": "Management and Marketing" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4037" } ,
+        "orgLabel": { "type": "literal" , "value": "Major Projects" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org265" } ,
+        "orgLabel": { "type": "literal" , "value": "Medical Biology (W.E.H.I.)" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org4417" } ,
+        "orgLabel": { "type": "literal" , "value": "Otolaryngology" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org1817" } ,
+        "orgLabel": { "type": "literal" , "value": "Nossal Institute for Global Health" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org212" } ,
+        "orgLabel": { "type": "literal" , "value": "Earth Sciences" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org203" } ,
+        "orgLabel": { "type": "literal" , "value": "Science" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org131" } ,
+        "orgLabel": { "type": "literal" , "value": "Electrical and Electronic Engineering" }
+      } ,
+      {
+        "org": { "type": "uri" , "value": "http://www.findanexpert.unimelb.edu.au/individual/org163" } ,
+        "orgLabel": { "type": "literal" , "value": "Pharmacology and Therapeutics" }
+      }
+    ]
+  }
+}

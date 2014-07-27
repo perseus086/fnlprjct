@@ -1,0 +1,116 @@
+<rdf:RDF
+    xmlns:geo="http://aims.fao.org/aos/geopolitical.owl#"
+    xmlns:vitro-public="http://vitro.mannlib.cornell.edu/ns/vitro/public#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:ero="http://purl.obolibrary.org/obo/"
+    xmlns:event="http://purl.org/NET/c4dm/event.owl#"
+    xmlns:pvs="http://vivoweb.org/ontology/provenance-support#"
+    xmlns:dcelem="http://purl.org/dc/elements/1.1/"
+    xmlns:vivo="http://vivoweb.org/ontology/core#"
+    xmlns:vitro="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:scires="http://vivoweb.org/ontology/scientific-research#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:fae="http://www.findanexpert.unimelb.edu.au/ontology/" > 
+  <rdf:Description rdf:about="http://purl.org/asc/1297.0/2008/seo/850702">
+    <rdfs:label>Energy Conservation and Efficiency in Transport</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/person430525">
+    <rdfs:label>DR JIANZHONG QI</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/publication254339position6Y">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <vivo:linkedInformationResource rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339"/>
+    <vivo:authorRank>6</vivo:authorRank>
+    <rdfs:label>Yu G</rdfs:label>
+    <vivo:authorNameAsListed>Yu G</vivo:authorNameAsListed>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vivoweb.org/ontology/core#yearPrecision">
+    <rdfs:label xml:lang="en-US">yearPrecision</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/publication254339position2Y">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <vivo:linkedAuthor rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/person143481"/>
+    <vivo:linkedInformationResource rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339"/>
+    <rdfs:label>Zhang R</rdfs:label>
+    <vivo:authorNameAsListed>Zhang R</vivo:authorNameAsListed>
+    <vivo:authorRank>2</vivo:authorRank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/publication254339position1Y">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <vivo:linkedInformationResource rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339"/>
+    <vivo:authorNameAsListed>Wang Y</vivo:authorNameAsListed>
+    <rdfs:label>Wang Y</rdfs:label>
+    <vivo:authorRank>1</vivo:authorRank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/asc/1297.0/2008/for/080609">
+    <rdfs:label>Information Systems Management </rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/publication254339position3Y">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <vivo:linkedInformationResource rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339"/>
+    <vivo:authorNameAsListed>Xu C</vivo:authorNameAsListed>
+    <vivo:authorRank>3</vivo:authorRank>
+    <rdfs:label>Xu C</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/publisher628">
+    <rdfs:label>Pergamon</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/dateTimePublication254339">
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+    <vivo:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
+    <vivo:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-01-01T00:00:00Z</vivo:dateTime>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/publication254339position4Y">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <vivo:linkedInformationResource rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339"/>
+    <vivo:linkedAuthor rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/person430525"/>
+    <vivo:authorNameAsListed>Qi J</vivo:authorNameAsListed>
+    <rdfs:label>Qi J</rdfs:label>
+    <vivo:authorRank>4</vivo:authorRank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/person143481">
+    <rdfs:label>A/PROF RUI ZHANG</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/journal15288">
+    <rdfs:label>Information Systems</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/publication254339">
+    <vitro:mostSpecificType rdf:resource="http://www.findanexpert.unimelb.edu.au/ontology/PublicationTypeC1"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#InformationResource"/>
+    <vivo:informationResourceInAuthorship rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339position4Y"/>
+    <vivo:dateTimeValue rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/dateTimePublication254339"/>
+    <vivo:informationResourceInAuthorship rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339position6Y"/>
+    <bibo:volume>44</bibo:volume>
+    <vivo:publisher rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publisher628"/>
+    <bibo:pageStart>1</bibo:pageStart>
+    <vivo:title>&lt;p&gt;Continuous visible &lt;em&gt;k&lt;/em&gt; nearest neighbor query on moving objects&lt;/p&gt;</vivo:title>
+    <vivo:informationResourceInAuthorship rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339position5Y"/>
+    <vivo:informationResourceInAuthorship rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339position3Y"/>
+    <vivo:informationResourceInAuthorship rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339position1Y"/>
+    <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/080609"/>
+    <rdf:type rdf:resource="http://www.findanexpert.unimelb.edu.au/ontology/PublicationTypeC1"/>
+    <bibo:doi>10.1016/j.is.2014.02.003</bibo:doi>
+    <bibo:pageEnd>21</bibo:pageEnd>
+    <rdfs:label>&lt;p&gt;Continuous visible &lt;em&gt;k&lt;/em&gt; nearest neighbor query on moving objects&lt;/p&gt;</rdfs:label>
+    <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/seo/850702"/>
+    <vivo:hasPublicationVenue rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/journal15288"/>
+    <vivo:informationResourceInAuthorship rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339position2Y"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.findanexpert.unimelb.edu.au/individual/publication254339position5Y">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
+    <vivo:linkedInformationResource rdf:resource="http://www.findanexpert.unimelb.edu.au/individual/publication254339"/>
+    <rdfs:label>Gu Y</rdfs:label>
+    <vivo:authorRank>5</vivo:authorRank>
+    <vivo:authorNameAsListed>Gu Y</vivo:authorNameAsListed>
+  </rdf:Description>
+</rdf:RDF>
