@@ -1,4 +1,9 @@
 __author__ = 'paulhinojosa'
+
+'''
+Gets the people of the niversity of melbourne from MAS to couchdb
+'''
+
 from bs4 import BeautifulSoup
 import re
 import urllib2
@@ -23,7 +28,7 @@ response = urllib2.urlopen(first_page)
 html_doc = response.read()
 html_doc = open("data/mas_uni_1.html", 'r').read()
 soup = BeautifulSoup(html_doc)
-actual_value = 3900
+actual_value = 1900
 summary = soup.find(id='ctl00_MainContent_SearchSummary_divSummary')
 final_value = get_number(summary.get_text())
 print final_value
