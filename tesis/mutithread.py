@@ -45,11 +45,11 @@ try:
     res = []
     test = True
     while j < 105245000:
-        for i in range(200):
+        for i in range(32):
             t.append(Thread(target=save_data, args=(db_keywords, j, test)))
             t[i].start()
             j += 100
-        for i in range(200):
+        for i in range(32):
             t[i].join()
         t = []
     # t1 = Thread(target=save_data,args=(0,))
